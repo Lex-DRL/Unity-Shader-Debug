@@ -1,0 +1,28 @@
+{
+	"name": "com.darlog.debug",
+	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:Lex-DRL/Unity-Shader-Debug.git"
+	},
+	"displayName": "Darlog - Shaders - Debug content",
+	"description": "Special content for shader-debugging.\nIt's located under `Editor` folder to be auto-excluded from build.",
+	"unity": "2022.3",
+	"unityRelease": "8f1",
+	"dependencies": {
+		"com.unity.render-pipelines.core": "14.0.8",
+		"com.unity.shadergraph": "14.0.8"
+	},
+	"keywords": [
+		"Shader",
+		"Lex",
+		"Darlog",
+		"Debug"
+	],
+	"author": {
+		"name": "Lex Darlog",
+		"email": "",
+		"url": "https://github.com/Lex-DRL"
+	},
+	"type": "tool"
+}
